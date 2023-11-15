@@ -1,0 +1,11 @@
+*{
+    margin:0;
+    padding:0;
+}
+p{
+    color:blue;
+    margin-left:85px;
+    margin-top:85px;
+    font-size:x-large;
+    font-family: 'Poppins', sans-serif;
+}

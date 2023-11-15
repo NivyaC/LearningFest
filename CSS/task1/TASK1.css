@@ -1,0 +1,19 @@
+*{
+    margin:0px;
+    padding:0px;
+    font-family: 'Tinos', serif;
+    font-family: 'Poppins', sans-serif;
+}
+div{
+  background-color: rgb(144, 217, 232);
+  height:120px;
+}
+.head{
+    display:flex;
+    justify-content:center;
+    color:white;
+    margin-bottom:15px;
+}
+.paragraph{
+    padding-left: 460px;
+}

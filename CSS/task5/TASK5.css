@@ -1,0 +1,11 @@
+div{
+    font-family: 'Poppins', sans-serif;
+}  
+.second{
+    margin:50px;
+    padding:60px;
+    border:20px solid;
+    width:400px;
+    height:150px;
+    background-color:rgb(93, 119, 157);
+}

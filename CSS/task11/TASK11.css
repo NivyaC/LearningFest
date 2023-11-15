@@ -1,0 +1,13 @@
+.one{
+    border-radius:15px;
+    border:solid 2px rgb(255, 0, 0);
+    padding:15px 5px;
+}
+.two{
+        border-top-left-radius: 50px;
+        border-top-right-radius: 15px;
+        border-bottom-left-radius: 15px;
+        border-bottom-right-radius: 35px;
+        border:solid 2px rgb(255, 0, 0);
+        padding:15px 5px;
+}

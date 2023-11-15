@@ -1,0 +1,7 @@
+div{
+    display:flex;
+    justify-content:center;
+    background-image: linear-gradient(to right, red,orange,yellow,green,blue,indigo,violet);
+    font-size:40px;
+    color:rgb(108, 104, 104);
+  }
